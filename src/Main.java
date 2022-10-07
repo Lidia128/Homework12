@@ -15,6 +15,6 @@ public class Main {
         System.out.println("chika.since = " + chika.getSince());
         chika.setSince(2000);
         System.out.println("chika.getSince() = " + chika.getSince());
+            }
 
-
-    }}
+}
